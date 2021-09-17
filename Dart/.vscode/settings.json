@@ -1,0 +1,8 @@
+{
+    "editor.rulers": [
+        300   
+    ],
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 500,
+    "editor.overviewRulerBorder": false
+}

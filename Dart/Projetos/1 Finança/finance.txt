@@ -1,0 +1,1 @@
+[{"date":"18 / 05 / 2021","data":"Dollar, 5.316 \nBitcoin, 207023.246 \nAustralian Dollar, 4.1028 \n"},{"date":"19 / 05 / 2021","data":"Dollar, 5.316 \nBitcoin, 207063.874 \nAustralian Dollar, 4.1028 \n"}]

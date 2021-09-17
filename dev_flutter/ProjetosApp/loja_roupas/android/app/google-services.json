@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204377799630",
+    "project_id": "loja-virtual-f61af",
+    "storage_bucket": "loja-virtual-f61af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204377799630:android:4a14b04ebc77666911899f",
+        "android_client_info": {
+          "package_name": "com.gabrielrosa.loja_roupas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204377799630-p61p6ohdf9hvgfv9p9jcmh7u94f7d789.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1mmOzW16_9HnXPADUaZ4jZ4Q4RJfyg24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204377799630-p61p6ohdf9hvgfv9p9jcmh7u94f7d789.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
